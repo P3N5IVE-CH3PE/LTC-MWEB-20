@@ -5,7 +5,7 @@ html, body {
 }
 
 .background {
-  background-image: url('DEFI_MWEB.png');
+  background-image: url('./images/DEFI_MWEB.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
